@@ -2,6 +2,7 @@
   <div>
     <Header />
     <Dashboard />
+    end of it
   </div>
 </template>
 
