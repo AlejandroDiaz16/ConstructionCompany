@@ -1,13 +1,13 @@
 <template>
   <div>
     <Header />
-    home
+    <Dashboard />
   </div>
 </template>
 
 <script setup>
 import Header from '../components/Header';
-
+import Dashboard from '~/components/Dashboard.vue';
   useHead({
     title: 'Home',
   });
